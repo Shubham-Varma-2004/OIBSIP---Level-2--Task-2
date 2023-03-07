@@ -1,0 +1,12 @@
+.text-center {
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}
+
+.p-5 {
+    padding: 28px;
+}
+
+.content h3 {
+    font-family: 'Golos Text', sans-serif;
+}
